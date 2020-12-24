@@ -1,3 +1,47 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "136970025716",
+    "firebase_url": "https://artasks-1355d.firebaseio.com",
+    "project_id": "artasks-1355d",
+    "storage_bucket": "artasks-1355d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136970025716:android:f65b274d25e2dd55a03ca1",
+        "android_client_info": {
+          "package_name": "com.standev.tasksmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136970025716-080q5tv11uct8j2ci9v2tc9p86lib6hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItzqMYCfyDj0y1CqZZhEAJJpTUxTmlww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136970025716-080q5tv11uct8j2ci9v2tc9p86lib6hp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136970025716-74kp2or65kd56bbfj0c2pssr72ee2evh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.standev.tasksmob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }

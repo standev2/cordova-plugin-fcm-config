@@ -1,1 +1,36 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>136970025716-74kp2or65kd56bbfj0c2pssr72ee2evh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.136970025716-74kp2or65kd56bbfj0c2pssr72ee2evh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJFzjxlvuJmSzmx0kAD4gNsmbFG4hj7_E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>136970025716</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.standev.tasksmob</string>
+	<key>PROJECT_ID</key>
+	<string>artasks-1355d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>artasks-1355d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:136970025716:ios:2a87eedf314b1aa8a03ca1</string>
+	<key>DATABASE_URL</key>
+	<string>https://artasks-1355d.firebaseio.com</string>
+</dict>
+</plist>
